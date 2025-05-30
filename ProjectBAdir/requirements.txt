@@ -1,8 +1,10 @@
-pip install paddleocr
-pip install pdfkit
-pip install Jinja2
-pip install wkhtmltopdf
-
-pip install paddleocr
-pip install PyMuPDF
-pip install opencv-python
+paddleocr
+pdfkit
+Jinja2
+PyMuPDF
+opencv-python
+pytesseract
+pandas
+openpyxl
+numpy
+Pillow
